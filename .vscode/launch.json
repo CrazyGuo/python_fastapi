@@ -1,0 +1,15 @@
+
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "fastapi_env",
+            "type": "python",
+            "request": "launch",
+            "pythonPath": "C:/Users/wuzhuguo/AppData/Local/Continuum/anaconda3/envs/pyfastapi37/python.exe",
+            "program": "${file}",
+            "cwd": "${workspaceRoot}",
+            "env": {}
+        }
+    ]
+}

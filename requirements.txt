@@ -1,0 +1,15 @@
+1. conda create -n pyfastapi37 python=3.7
+2. pip install fastapi
+3. pip install uvicorn
+4. pip install graphene
+5. pip install pydantic[email]
+6. pip install passlib
+7. pip install pyjwt
+8. pip install sqlalchemy
+9. pip install pymssql
+10. pip install bcrypt
+11. pip install python-multipart
+12. pip install ariadne
+13. pip install python-dotenv
+14. pip install alembic
+15. pip install cx_Oracle
